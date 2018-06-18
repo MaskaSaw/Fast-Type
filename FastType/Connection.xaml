@@ -1,0 +1,126 @@
+﻿<Window x:Class="FastType.Connection"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FastType"
+        mc:Ignorable="d"
+        Title="Menu"
+        Background="#0E100E"
+        FontFamily="/FastType;component/Fonts/#Luckiest Guy"
+        Height="768" 
+        Width="1366" 
+        ResizeMode="NoResize" 
+        WindowStartupLocation="CenterScreen" 
+        WindowStyle="None" 
+        WindowState="Maximized"
+        FontSize="30" 
+        ShowInTaskbar="False" 
+        AllowsTransparency="True">
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock x:Name="PreviwBox"
+                   Text="Многопользовательский режим"
+                   Grid.Row="0"
+                   VerticalAlignment="Center"
+                   Foreground="#FF32af0a"
+                   FontSize="55"
+                   TextAlignment="Center"
+                   Width="950"
+                   Margin="10"/>
+
+        <TextBlock x:Name="WaitBox"
+                   Text="Ожидание подключения"
+                   Grid.Row="1"
+                   VerticalAlignment="Center"
+                   Foreground="#FF32af0a"
+                   FontSize="75"
+                   TextAlignment="Center"
+                   Width="1050"
+                   Margin="10"
+                   Visibility="Hidden"/>
+
+        <Grid Grid.Row="1"
+              HorizontalAlignment="Center"
+              VerticalAlignment="Center">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Button x:Name="bHost"
+                Grid.Row="0"
+                Content="Создать"
+                VerticalAlignment="Center"
+                HorizontalAlignment="Center"
+                Foreground="#FF32af0a"
+                Background="#0E100E"
+                Width="500"
+                Height="80"
+                FontSize="45"
+                BorderBrush="#FF32af0a"
+                Margin="10" Click="bHost_Click" />
+
+            <TextBox x:Name="tbIP"
+                     Grid.Row="0"
+                     VerticalAlignment="Center"
+                     HorizontalAlignment="Center"
+                     TextAlignment="Center"
+                     Background="#0E100E"
+                     Foreground="#FF32af0a"
+                     BorderBrush="#FF32af0a"
+                     Width="500"
+                     Height="80"
+                     Margin="10"
+                     FontSize="45"
+                     VerticalContentAlignment="Center"
+                     Visibility="Hidden"/>
+
+            <Button x:Name="bClient"
+                Grid.Row="1"
+                Content="Присоединиться"
+                VerticalAlignment="Center"
+                HorizontalAlignment="Center"
+                Foreground="#FF32af0a"
+                Background="#0E100E"
+                Width="500"
+                Height="80"
+                FontSize="45"
+                BorderBrush="#FF32af0a"
+                Margin="10" Click="bClient_Click_1" />
+
+            <Button x:Name="bConnect"
+                Grid.Row="1"
+                Content="Подключиться"
+                VerticalAlignment="Center"
+                HorizontalAlignment="Center"
+                Foreground="#FF32af0a"
+                Background="#0E100E"
+                Width="500"
+                Height="80"
+                FontSize="45"
+                BorderBrush="#FF32af0a"
+                Margin="10"
+                Visibility="Hidden" Click="bConnect_Click"/>
+        </Grid>
+        <Button x:Name="bBack"
+                Grid.Row="2"
+                Content="Назад"
+                VerticalAlignment="Center"
+                HorizontalAlignment="Right"
+                Foreground="#FF32af0a"
+                Background="#0E100E"
+                Width="200"
+                Height="50"
+                FontSize="35"
+                BorderBrush="#FF32af0a"
+                Margin="0 0 100 0" Click="bBack_Click"/>
+        
+    </Grid>
+</Window>

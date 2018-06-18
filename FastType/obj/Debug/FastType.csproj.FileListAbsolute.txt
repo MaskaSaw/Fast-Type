@@ -1,0 +1,83 @@
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\bin\Debug\FastType.exe.config
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\bin\Debug\FastType.exe
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\bin\Debug\FastType.pdb
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\MainWindow.g.cs
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\App.g.cs
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\FastType_MarkupCompile.cache
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\FastType_MarkupCompile.lref
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\MainWindow.baml
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\FastType.g.resources
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\FastType.Properties.Resources.resources
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\FastType.csproj.GenerateResource.cache
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\FastType.csproj.CoreCompileInputs.cache
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\FastType.exe
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\FastType.pdb
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\App.baml
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\Menu.g.cs
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\Menu.baml
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\Курсач\FastType\FastType\bin\Debug\FastType.exe.config
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\FastType.exe
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\FastType.pdb
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\Курсач\FastType\FastType\bin\Debug\FastType.exe
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\Курсач\FastType\FastType\bin\Debug\FastType.pdb
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\FastType.csprojResolveAssemblyReference.cache
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\MainWindow.g.cs
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\Menu.g.cs
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\App.g.cs
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\FastType_MarkupCompile.cache
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\FastType_MarkupCompile.lref
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\App.baml
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\MainWindow.baml
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\Menu.baml
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\FastType.g.resources
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\FastType.Properties.Resources.resources
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\FastType.csproj.GenerateResource.Cache
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\Single.g.cs
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\Single.baml
+H:\1\Курсач\FastType\FastType\bin\Debug\FastType.exe.config
+H:\1\Курсач\FastType\FastType\bin\Debug\FastType.exe
+H:\1\Курсач\FastType\FastType\bin\Debug\FastType.pdb
+H:\1\Курсач\FastType\FastType\obj\Debug\FastType.csprojResolveAssemblyReference.cache
+H:\1\Курсач\FastType\FastType\obj\Debug\MainWindow.g.cs
+H:\1\Курсач\FastType\FastType\obj\Debug\Menu.g.cs
+H:\1\Курсач\FastType\FastType\obj\Debug\Single.g.cs
+H:\1\Курсач\FastType\FastType\obj\Debug\App.g.cs
+H:\1\Курсач\FastType\FastType\obj\Debug\FastType_MarkupCompile.cache
+H:\1\Курсач\FastType\FastType\obj\Debug\FastType_MarkupCompile.lref
+H:\1\Курсач\FastType\FastType\obj\Debug\App.baml
+H:\1\Курсач\FastType\FastType\obj\Debug\MainWindow.baml
+H:\1\Курсач\FastType\FastType\obj\Debug\Menu.baml
+H:\1\Курсач\FastType\FastType\obj\Debug\Single.baml
+H:\1\Курсач\FastType\FastType\obj\Debug\FastType.g.resources
+H:\1\Курсач\FastType\FastType\obj\Debug\FastType.Properties.Resources.resources
+H:\1\Курсач\FastType\FastType\obj\Debug\FastType.csproj.GenerateResource.cache
+H:\1\Курсач\FastType\FastType\obj\Debug\FastType.csproj.CoreCompileInputs.cache
+H:\1\Курсач\FastType\FastType\obj\Debug\FastType.exe
+H:\1\Курсач\FastType\FastType\obj\Debug\FastType.pdb
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\Single.g.cs
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\Single.baml
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\Connection.g.cs
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\Connection.baml
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\Multy.g.cs
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\Multy.baml
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\Records.g.cs
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\Records.baml
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\bin\Debug\EntityFramework.dll
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\bin\Debug\EntityFramework.SqlServer.dll
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\bin\Debug\EntityFramework.xml
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\bin\Debug\EntityFramework.SqlServer.xml
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\bin\Debug\ru\EntityFramework.resources.dll
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\FastType.csprojAssemblyReference.cache
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\FastType_Content.g.cs
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\FastType.csproj.CopyComplete
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\Курсач\FastType\FastType\bin\Debug\EntityFramework.dll
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\Курсач\FastType\FastType\bin\Debug\EntityFramework.SqlServer.dll
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\Курсач\FastType\FastType\bin\Debug\EntityFramework.xml
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\Курсач\FastType\FastType\bin\Debug\EntityFramework.SqlServer.xml
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\Курсач\FastType\FastType\bin\Debug\ru\EntityFramework.resources.dll
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\Connection.g.cs
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\Multy.g.cs
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\Records.g.cs
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\Connection.baml
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\Multy.baml
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\Курсач\FastType\FastType\obj\Debug\Records.baml

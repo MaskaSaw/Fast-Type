@@ -1,0 +1,122 @@
+﻿<Window x:Class="FastType.Menu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FastType"
+        mc:Ignorable="d"
+        Title="Menu"
+        Background="#0E100E"
+        FontFamily="/FastType;component/Fonts/#Luckiest Guy"
+        Height="768" 
+        Width="1366" 
+        ResizeMode="NoResize" 
+        WindowStartupLocation="CenterScreen" 
+        WindowStyle="None" 
+        WindowState="Maximized"
+        FontSize="30" 
+        ShowInTaskbar="False" 
+        AllowsTransparency="True">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <TextBlock x:Name="PreviwBox"
+                   Text="Главное меню"
+                   Grid.Row="1"
+                   VerticalAlignment="Center"
+                   Foreground="#FF32af0a"
+                   FontSize="55"
+                   TextAlignment="Center"
+                   Width="500"
+                   Margin="10"/>
+
+        <TextBlock x:Name="LoginBox"
+                   Grid.Row="0"
+                   VerticalAlignment="Center"
+                   Foreground="#FF32af0a"
+                   FontSize="35"
+                   TextAlignment="Center"
+                   Width="350"
+                   Margin="0 20 1100 20"/>
+
+        <Button x:Name="bSingle"
+                Grid.Row="3"
+                Content="Одиночный режим"
+                VerticalAlignment="Center"
+                HorizontalAlignment="Center"
+                Foreground="#FF32af0a"
+                Background="#0E100E"
+                Width="530"
+                Height="60"
+                FontSize="35"
+                BorderBrush="#FF32af0a"
+                Margin="10" Click="BSingle_Click" 
+                />
+        
+        <Button x:Name="bMulty"
+                Grid.Row="4"
+                Content="Многопользовательский режим"
+                VerticalAlignment="Center"
+                HorizontalAlignment="Center"
+                Foreground="#FF32af0a"
+                Background="#0E100E"
+                Width="800"
+                Height="60"
+                FontSize="35"
+                BorderBrush="#FF32af0a"
+                Margin="10" Click="bMulty_Click" 
+                />
+
+        <Button x:Name="bRecords"
+                Grid.Row="5"
+                Content="Рекорды"
+                VerticalAlignment="Center"
+                HorizontalAlignment="Center"
+                Foreground="#FF32af0a"
+                Background="#0E100E"
+                Width="300"
+                Height="60"
+                FontSize="35"
+                BorderBrush="#FF32af0a"
+                Margin="10" Click="bRecords_Click" 
+                />
+
+        <Button x:Name="bBack"
+                Grid.Row="7"
+                Content="Назад"
+                VerticalAlignment="Center"
+                HorizontalAlignment="Center"
+                Foreground="#FF32af0a"
+                Background="#0E100E"
+                Width="220"
+                Height="50"
+                FontSize="30"
+                BorderBrush="#FF32af0a"
+                Margin="1100 20 0 20" Click="BBack_Click" />
+
+
+        <Button x:Name="bExit"
+                Grid.Row="7"
+                Content="Выход"
+                VerticalAlignment="Center"
+                HorizontalAlignment="Center"
+                Foreground="#FF32af0a"
+                Background="#0E100E"
+                Width="220"
+                Height="50"
+                FontSize="30"
+                BorderBrush="#FF32af0a"
+                Margin="0 20 1100 20" Click="BExit_Click"/>
+
+    </Grid>
+</Window>
